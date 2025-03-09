@@ -1,6 +1,6 @@
 # MetaDine
 
-~Folder Structure~
+*-Folder Structure-*
 
 metadine/
 │── public/                 # Static assets (logos, images, etc.)
